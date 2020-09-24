@@ -13,7 +13,7 @@
 <script>
 export default {
   name: 'LayoutIndex',
-  data () {
+  data() {
     return {
       active: 0
     }
